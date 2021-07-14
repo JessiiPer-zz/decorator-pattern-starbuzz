@@ -1,5 +1,5 @@
 ## Sistema de cafeteria Starbuzz
-Projeto para fins educativos ue exemplifica o uso do padrão decorator.cafeteria
+Projeto para fins educativos que exemplifica o uso do padrão decorator cafeteria.
 
 ## Problema
 
